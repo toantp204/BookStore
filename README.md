@@ -33,9 +33,9 @@
 git clone https://github.com/ngonhan71/bookstore-v2
 cd bookstore-v2
 
-2. **cd server, tạo file .env**
+2. cd server, tạo file .env
 
-```bash
+
 PORT=5000
 MONGODB_CONNECT_URI=
 

@@ -32,6 +32,7 @@
 ```bash
 git clone https://github.com/ngonhan71/bookstore-v2
 cd bookstore-v2
+```bash
 
 2. cd server, tạo file .env
 
